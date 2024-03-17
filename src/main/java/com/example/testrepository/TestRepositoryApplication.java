@@ -8,8 +8,7 @@ public class TestRepositoryApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestRepositoryApplication.class, args);
-        System.out.println("Я буду работать в Тинькофф банке java разработчиком");
-        System.out.println("Йоу!");
+
     }
 
 }

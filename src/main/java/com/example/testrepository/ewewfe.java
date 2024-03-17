@@ -1,5 +1,5 @@
 package com.example.testrepository;
 
 public class ewewfe {
-    private String pr = "adas";
+    private String pr = "adas123131";
 }
